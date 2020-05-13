@@ -35,6 +35,7 @@ print(testMatrix)
 Matrixchiffre = np.matrix.round(np.matmul(matrixChiff, inverseMatrix2))
 Matrixchiffre = Matrixchiffre%26
 print(Matrixchiffre)
+print("test")
 
 
 
